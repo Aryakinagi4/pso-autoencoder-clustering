@@ -4,6 +4,14 @@ This repository documents the published research:
 
 **“Enhancing the Performance of PSO Algorithm for Clustering High Dimensional Data using Autoencoders.”**
 
+This work was published in Springer.
+
+📖 Read the full paper:
+https://link.springer.com/chapter/10.1007/978-981-99-7817-5_38
+
+DOI:
+10.1007/978-981-99-7817-5_38
+
 The research proposes a hybrid clustering framework that combines:
 
 - Autoencoder-based dimensionality reduction
