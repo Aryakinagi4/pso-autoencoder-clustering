@@ -1,5 +1,11 @@
 # Enhancing PSO-Based Clustering using Autoencoders
 
+![Research](https://img.shields.io/badge/Published-Springer-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Clustering-blue)
+![Optimization](https://img.shields.io/badge/Optimization-PSO-orange)
+![High Dimensional Data](https://img.shields.io/badge/Data-High%20Dimensional-purple)
+
+
 This repository documents the published research:
 
 **“Enhancing the Performance of PSO Algorithm for Clustering High Dimensional Data using Autoencoders.”**
